@@ -17,6 +17,12 @@ Characterized by an analytical mindset, I'm predisposed to collaborative efforts
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 
 
+<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".NET" width="40" height="40"/>
+</a>
+
+
+
 
 
 
